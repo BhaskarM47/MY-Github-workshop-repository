@@ -3,3 +3,4 @@
 echo " Hello Linux "
 echo "Hello devops"
 echo "Hello Devops waale bhaiya !!"
+echo "GIT and GITHub is awesome!!"
